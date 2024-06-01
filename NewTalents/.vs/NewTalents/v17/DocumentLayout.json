@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tau\\Meu Drive\\Estudo\\DIO_Bootcamp_Avanade\\Projetos\\tests\\NewTalents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE82ABBD-C3D3-464E-97FC-433413EDD295}|..\\TestNewTalent\\TestNewTalent.csproj|c:\\users\\tau\\meu drive\\estudo\\dio_bootcamp_avanade\\projetos\\tests\\testnewtalent\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361AE2A4-F3B4-4BEF-9F8F-82D3C0A33EF4}|NewTalents.csproj|c:\\users\\tau\\meu drive\\estudo\\dio_bootcamp_avanade\\projetos\\tests\\newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361AE2A4-F3B4-4BEF-9F8F-82D3C0A33EF4}|NewTalents.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Tau\\Meu Drive\\Estudo\\DIO_Bootcamp_Avanade\\Projetos\\tests\\TestNewTalent\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestNewTalent\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Tau\\Meu Drive\\Estudo\\DIO_Bootcamp_Avanade\\Projetos\\tests\\TestNewTalent\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestNewTalent\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:05:38.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Tau\\Meu Drive\\Estudo\\DIO_Bootcamp_Avanade\\Projetos\\tests\\NewTalents\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\Tau\\Meu Drive\\Estudo\\DIO_Bootcamp_Avanade\\Projetos\\tests\\NewTalents\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwDIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:05:37.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\bin\Debug\net8.0\NewTalents.exe
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\bin\Debug\net8.0\NewTalents.dll
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\obj\Debug\net8.0\NewTalents.dll
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+C:\Users\Tau\Meu Drive\Estudo\DIO_Bootcamp_Avanade\Projetos\tests\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
